@@ -1,1 +1,0 @@
-# innomatics-task1
